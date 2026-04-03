@@ -1,3 +1,4 @@
+# READY TO BE DELETED
 # AWS RDS Aurora Terraform module
 
 Terraform module which creates AWS RDS Aurora resources.
